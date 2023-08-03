@@ -1,0 +1,19 @@
+/* .container{
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    border: black solid;
+    margin: 10px;
+}  */
+
+.img{
+    width:300px;
+    height:fit-content;
+    object-fit:cover;
+    border: black solid;
+    margin: 10px;
+    margin-top: 0;
+    margin-left: 0;
+    padding:10px;
+    
+}
